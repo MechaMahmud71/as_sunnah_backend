@@ -21,8 +21,7 @@ Before deploying the application, ensure the following requirements are met:
 
 Clone your application repository from the version control system:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/MechaMahmud71/as_sunnah_backend.git
 ```
 
 ### 2. Install Dependencies
